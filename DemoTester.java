@@ -6,6 +6,6 @@ import org.junit.*;
 public class DemoTester {
     @Test 
     public void incrementTester() {
-        assertEquals(4, Demo1.incrementValue(2));
+        assertEquals(3, Demo1.incrementValue(2));
     }
 }
